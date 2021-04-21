@@ -1,0 +1,9 @@
+.container {
+    background-color: violet;
+}
+
+.picture {
+    width: 200px;
+    padding-left: 150px;
+    padding-top: 100;
+}
